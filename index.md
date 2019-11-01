@@ -1,1 +1,2 @@
-## Amaze,this is a github page.😺
+# Amaze 😺
+## this is a github page.
