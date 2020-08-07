@@ -53,19 +53,6 @@
 - http://grid.guide
 - http://www.peise.net/tools/web
 
-### 邮箱
-- https://mail.cock.li
-- https://qiye.163.com/login
-- http://www.guerrillamail.com/zh
-
-### 软件下载
-- https://gofans.cn
-- https://www.macwk.com
-
-### iOS
-- https://www.cnblogs.com/Dast1
-- https://developer.apple.com/account/#/welcome
-- https://www.dandb.com/search
 
 ### 产品官网
 - http://www.uxmap.cn/page/#/uxmap/home
@@ -154,10 +141,7 @@
 - https://blog.csdn.net/qq_36085004/article/details/83348144
 - https://samray.me
 
-### html+css
-- http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
-- https://es6.ruanyifeng.com
-- https://xin-tan.com/passages/2019-03-20-css3-flex
+
 
 ### React
 - http://cn.redux.js.org
@@ -238,8 +222,7 @@
 - https://github.com/a54552239/Administrative-divisions-of-China
 
 ### 工具相关
-- http://www.eiisys.com/eiisys-index.html
-- http://www.33e9cloud.com
+
 - http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2019
 - https://www.wjx.cn/jq/34264182.aspx
 - https://www.wjx.cn/jq/34037271.aspx
@@ -272,9 +255,6 @@
 - http://hugopenapi.58.com/openapi
 - https://vuepress.vuejs.org/zh
 
-### IDEA
-- https://www.pianshen.com/article/9591326637
-- https://www.cnblogs.com/jimoer/p/10166343.html
 
 ### 安装包
 - https://www.cnblogs.com/qy-blogs/p/9459845.html
@@ -287,14 +267,47 @@
 - https://installbuilder.com
 
 ### 英语
-- http://up-6.com
-- https://a-programmers-guide-to-english.harryyu.me
+- [UP-6 英语学习导航](http://up-6.com)
+- [A Programmer's Guide to English](https://a-programmers-guide-to-english.harryyu.me)
 
 ### 产品
-- https://www.pmcaff.com
-- https://www.producthunt.com
+- [PMCAFF - 产品经理社区](https://www.pmcaff.com)
+- [ProductHunt](https://www.producthunt.com)
 
 ### 小程序
-- https://www.cnblogs.com/yexiaochai/p/9437101.html
-- https://github.com/justjavac/awesome-wechat-weapp
-- https://www.cnblogs.com/web1
+- [【微信小程序项目实践总结】30分钟从陌生到熟悉](https://www.cnblogs.com/yexiaochai/p/9437101.html)
+- [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
+- [博客园 百撕可乐](https://www.cnblogs.com/web1)
+
+### 通信能力
+- [中国移动 - 中间号](https://open.10086.cn/#/capability/9)
+- [海翕云 - 隐私号码服务](http://www.eiisys.com/product_privacy.html)
+- [玖云平台 - 虚拟小号](http://www.33e9cloud.com/virtual_trumpet.html)
+- [华为云 - 隐私保护通话](https://www.huaweicloud.com/product/privatenumber.html)
+- [易米云通 - 号码保护](http://www.emicnet.com/zhinengyuyinapi/haomabaohu)
+- [容联云 - 号码保护](https://www.yuntongxun.com/product/nimingtonghua.html)
+- [阿里云 - 号码隐私保护](https://www.aliyun.com/product/pls)
+- [腾讯云 - 号码保护](https://cloud.tencent.com/product/npp)
+
+### 邮箱
+- [Cockmail](https://mail.cock.li)
+- [网易企业邮箱](https://qiye.163.com/login)
+- [Guerrilla临时邮箱](http://www.guerrillamail.com/zh)
+
+### 软件下载
+- [GoFans-  Apple正版软件限免优惠](https://gofans.cn)
+- [MacWk - 精品MAC软件下载](https://www.macwk.com)
+
+### iOS
+- [博客园 - Dast1](https://www.cnblogs.com/Dast1)
+- [Apple Developer](https://developer.apple.com/account/#/welcome)
+- [Dun & Bradstreet Search](https://www.dandb.com/search)
+
+### IDEA
+- [IDEA 优化配置](https://www.pianshen.com/article/9591326637)
+- [IDEA 常用配置](https://www.cnblogs.com/jimoer/p/10166343.html)
+
+### html+css
+- [Flex 布局教程](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+- [ES6 入门教程](https://es6.ruanyifeng.com)
+- [Flex上手与实战](https://xin-tan.com/passages/2019-03-20-css3-flex)
