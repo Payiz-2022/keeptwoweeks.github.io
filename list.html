@@ -16,10 +16,7 @@
 
     .container {
       width: 800px;
-      height: calc(100vh - 4px);
-      overflow: auto;
       margin: 0 auto;
-      border-radius: 0 0 12px 12px;
     }
 
     .container ul {
@@ -32,13 +29,12 @@
     }
 
     .container ul li i {
-      color: #eb7b2f;
+      color: #f90;
     }
 
     .container ul li .bg {
-      margin-top: 16px;
-      margin-bottom: 16px;
-      margin-left: 8px;
+      margin-top: 20px;
+      margin-bottom: 20px;
     }
 
     .container ul li .ck {
@@ -48,6 +44,13 @@
 
     .container ul li span {
       color: #d3d3d3;
+      line-height: 150%;
+      font-size: 14px;
+    }
+
+    .container ul li .root {
+      color: #4bde8a;
+      font-size: 18px;
     }
   </style>
 </head>
@@ -56,27 +59,42 @@
   <div class="container">
     <ul>
 
-      <li>
-        <i>2020-08-02</i>
+      <!-- <li>
+        <i>2020-01-01</i>
+
         <div class="bg">
-          <span class="ck">修复 Tree.DirectoryTree 不能通过 ref 调用 scrollTo 的问题。</span>
+          <span class="ck">1. example</span>
         </div>
-      </li>
+
+      </li> -->
 
       <li>
-        <i>2020-08-01</i>
+        <i>2020-08-14 ～ 16</i>
+
         <div class="bg">
-          <span>修订版本号：每周末会进行日常 bugfix 更新（如果有紧急的 bugfix，则任何时候都可发布）修复 Menu 在 horizontal dark 状态下 Menu.Item
-            背景样式出错。</span>
+          <span class="root">表结构的建立</span>
         </div>
 
         <div class="bg">
-          <span>次版本号：每月发布一个带有新特性的向下兼容的版本。</span>
+          <span class="ck">省/市/区/片区</span>
         </div>
 
         <div class="bg">
-          <span>次主版本号：含有破坏性更新和新特性，不在发布周期内。</span>
+          <span class="ck">微信token、验证短信</span>
         </div>
+
+        <div class="bg">
+          <span class="ck">企业/账号/企业账号关联</span>
+        </div>
+
+        <div class="bg">
+          <span class="ck">部门/员工/权限(岗位)/员工任职</span>
+        </div>
+
+        <div class="bg">
+          <span>小区/楼栋/户型/房号</span>
+        </div>
+
       </li>
 
     </ul>
