@@ -1,12 +1,8 @@
 # 一些常用的网址
 
 ### UI工具
-- https://logopond.com
-- https://www.uplabs.com
-- https://www.flaticon.com
-- https://www.materialpalette.com
 - https://unsplash.com
-- https://www.zcool.com.cn/u/14108229
+- https://www.zcool.com.cn/u/14108229logopond
 - https://www.91sotu.com
 - https://pixabay.com
 - https://color.adobe.com/zh/create/color-wheel
@@ -246,12 +242,12 @@
 
 
 ### 产品
-- [PMCAFF - 产品经理社区](https://www.pmcaff.com)
+- [PMCAFF 产品经理社区](https://www.pmcaff.com)
 - [ProductHunt](https://www.producthunt.com)
 
 
 ### 小程序
-- [【微信小程序项目实践总结】30分钟从陌生到熟悉](https://www.cnblogs.com/yexiaochai/p/9437101.html)
+- [微信小程序项目实践总结30分钟从陌生到熟悉](https://www.cnblogs.com/yexiaochai/p/9437101.html)
 - [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
 - [博客园 百撕可乐](https://www.cnblogs.com/web1)
 
@@ -274,12 +270,12 @@
 
 
 ### 软件下载
-- [GoFans-  Apple正版软件限免优惠](https://gofans.cn)
-- [MacWk - 精品MAC软件下载](https://www.macwk.com)
+- [GoFans Apple正版软件限免优惠](https://gofans.cn)
+- [MacWk 精品MAC软件下载](https://www.macwk.com)
 
 
 ### iOS
-- [博客园 - Dast1](https://www.cnblogs.com/Dast1)
+- [博客园 Dast1](https://www.cnblogs.com/Dast1)
 - [Apple Developer](https://developer.apple.com/account/#/welcome)
 - [Dun & Bradstreet Search](https://www.dandb.com/search)
 
@@ -328,6 +324,8 @@
 - [font book](https://fontbook.wiki)
 - [创造狮](http://www.chuangzaoshi.com)
 - [flat icon](https://www.flaticon.com)
+- [up labs](https://www.uplabs.com)
+- [flat icon](https://www.flaticon.com)
 
 
 ### 设计规范
@@ -339,7 +337,7 @@
 - [scheme color](https://www.schemecolor.com)
 - [coolors](https://coolors.co/palettes/trending)
 - [adobe color](https://color.adobe.com/zh/create)
-- [优阁](https://uigreat.com)
+- [ui great](https://uigreat.com)
 - [colo rpk](https://react.colorpk.com)
 - [brand colors](https://brandcolors.net)
 - [material palette](https://www.materialpalette.com)
