@@ -342,3 +342,7 @@
 - [brand colors](https://brandcolors.net)
 - [material palette](https://www.materialpalette.com)
 - [logo pond](https://logopond.com)
+
+### 帮助中心
+- [crm zoho](https://www.zoho.com.cn/crm/help)
+- [crm 悟空](https://www.5kcrm.com/help_detail)
