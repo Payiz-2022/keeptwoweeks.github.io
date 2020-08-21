@@ -326,6 +326,12 @@
 - [flat icon](https://www.flaticon.com)
 - [up labs](https://www.uplabs.com)
 - [flat icon](https://www.flaticon.com)
+- [cofolios](http://cofolios.com)
+- [miro templates](https://miro.com/templates/official-remote-5-day-design-sprint)
+- [welovenocode](https://welovenocode.com/nocodelist)
+- [ravenyu](https://ravenyu.com/discipline)
+- [figma cool](https://ui.figma.cool)
+- [basicons](https://basicons.xyz)
 
 
 ### 设计规范
