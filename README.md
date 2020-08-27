@@ -19,69 +19,6 @@
 - http://www.peise.net/tools/web
 
 
-### 产品官网
-- http://www.uxmap.cn/page/#/uxmap/home
-- https://xiaohuazhuo.com
-- https://device.my
-- https://minapp.com/miniapp
-- https://cn.eagle.cool
-- https://www.hzxue.com
-- https://buddy.works
-- https://www.figma.com
-- http://www.yunxi.tv
-- https://www.xiaoe-tech.com
-- https://www.xxurls.com
-- https://my.ishadowx.biz
-- https://io.freess.info
-- https://www.billfish.cn
-- https://www.ideamake.cn
-- https://a.ke.com/main/home
-- https://www.shujike.com
-- https://www.analysysdata.com
-- https://www.sensorsdata.cn
-- https://zhugeio.com
-- https://www.fxiaoke.com
-- http://www.flberp.com
-- https://www.atlassian.com/software/confluence
-- http://www.166bg.com/index/index.html
-- http://chatcms.anjuke.com/web/view/8259
-- https://bitbucket.org/product
-- https://www.admqr.com
-- https://laurence.songxiaocai.com/app.html
-- https://www.beisen.com
-- https://www.bangboss.com
-- https://ezip.awehunt.com
-- https://viserjs.github.io
-- https://www.mingdao.com/home
-- http://www.gllue.com
-- https://wuyuan.io
-- https://www.xiaoe-tech.com
-- https://www.living-space.cn
-- http://jianxun.io
-- https://jinshuju.net
-- https://www.bigcat.com
-- https://www.shiyanlou.com/saas
-- https://zhiren.com
-- https://x.zhiren.com
-- https://www.2haohr.com
-- https://www.mayihr.com
-- https://www.yingxinxin.cn
-- https://www.dtwave.com
-- https://qingflow.com
-- https://www.growingio.com
-- https://gitnoteapp.com/zh
-- http://raneto.com
-- https://ngrok.com
-- https://www.atlassian.com/zh
-- http://www.xiaoshouyi.com
-- https://ones.ai
-- https://www.ramnode.com
-- https://sondersafe.com
-- https://www.ifchange.com
-- https://www.gaoding.com/koutu
-- https://www.gaoding.com/school
-
-
 ### Java
 - https://www.cnblogs.com/huzi007/p/6854890.html
 - https://spring.io/projects/spring-boot
@@ -333,6 +270,8 @@
 - [figma cool](https://ui.figma.cool)
 - [basicons](https://basicons.xyz)
 - [design systems](https://designsystemsrepo.com)
+- [奇妙导航](https://www.qimiaodh.com)
+- [uxmap设计导航](http://www.uxmap.cn/page/#/uxmap/home)
 
 
 ### 设计规范
@@ -350,6 +289,82 @@
 - [material palette](https://www.materialpalette.com)
 - [logo pond](https://logopond.com)
 
+
 ### 帮助中心
-- [crm zoho](https://www.zoho.com.cn/crm/help)
-- [crm 悟空](https://www.5kcrm.com/help_detail)
+- [CRM zoho](https://www.zoho.com.cn/crm/help)
+- [CRM 悟空](https://www.5kcrm.com/help_detail)
+- [CRM 纷享销客](https://www.fxiaoke.com/ap/datacenter)
+- [TEAM ones](https://guides-ones.gitbook.io/guides)
+- [TEAM 鱼骨](http://www.yugusoft.com/club.htm)
+- [TEAM Teambition](https://support.teambition.com/help/docs/5dddc91c4985030014231f7a)
+- [TEAM Worktile](https://help.worktile.com)
+- [SHOP 有赞](https://help.youzan.com)
+
+
+### 产品官网
+- [Eagle 素材管理](https://cn.eagle.cool)
+- [Billfish 素材管理](https://www.billfish.cn)
+
+- [小画桌 在线实时协作白板](https://xiaohuazhuo.com)
+- [知晓程序 小程序商店](https://minapp.com/miniapp)
+- [好智学 在线培训](https://www.hzxue.com)
+- [buddy 应用构建](https://buddy.works)
+- [云犀 直播](http://www.yunxi.tv)
+- [小鹅通 新教育技术服务](https://www.xiaoe-tech.com)
+
+- [figma](https://www.figma.com)
+- [web devices capabilities](https://device.my)
+
+- [xx资源网](- https://www.xxurls.com)
+
+- [iShadow free ss](https://my.ishadowx.biz)
+- [freess](https://io.freess.info)
+
+- [思为科技 房地产营销](https://www.ideamake.cn)
+- [贝壳A+ 房产系统](https://a.ke.com/main/down)
+- [房老板 房产系统](http://www.flberp.com)
+
+- [易观方舟 用户运营](https://www.analysysdata.com)
+- [神策数据 用户行为分析](https://www.sensorsdata.cn)
+- [诸葛io 数据智能决策](https://zhugeio.com)
+
+
+### 产品官网
+- https://www.atlassian.com/software/confluence
+- http://www.166bg.com/index/index.html
+- http://chatcms.anjuke.com/web/view/8259
+- https://bitbucket.org/product
+- https://www.admqr.com
+- https://laurence.songxiaocai.com/app.html
+- https://www.beisen.com
+- https://www.bangboss.com
+- https://ezip.awehunt.com
+- https://viserjs.github.io
+- https://www.mingdao.com/home
+- http://www.gllue.com
+- https://wuyuan.io
+- https://www.xiaoe-tech.com
+- https://www.living-space.cn
+- http://jianxun.io
+- https://jinshuju.net
+- https://www.bigcat.com
+- https://www.shiyanlou.com/saas
+- https://zhiren.com
+- https://x.zhiren.com
+- https://www.2haohr.com
+- https://www.mayihr.com
+- https://www.yingxinxin.cn
+- https://www.dtwave.com
+- https://qingflow.com
+- https://www.growingio.com
+- https://gitnoteapp.com/zh
+- http://raneto.com
+- https://ngrok.com
+- https://www.atlassian.com/zh
+- http://www.xiaoshouyi.com
+- https://ones.ai
+- https://www.ramnode.com
+- https://sondersafe.com
+- https://www.ifchange.com
+- https://www.gaoding.com/koutu
+- https://www.gaoding.com/school
