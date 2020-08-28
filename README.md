@@ -317,7 +317,7 @@
 - [figma](https://www.figma.com)
 - [web devices capabilities](https://device.my)
 
-- [xx资源网](- https://www.xxurls.com)
+- [xx资源网](https://www.xxurls.com)
 
 - [iShadow free ss](https://my.ishadowx.biz)
 - [freess](https://io.freess.info)
