@@ -259,7 +259,6 @@
 - [icon gallery](https://www.iosicongallery.com)
 - [icons feed](http://www.iconsfeed.com)
 - [font book](https://fontbook.wiki)
-- [创造狮](http://www.chuangzaoshi.com)
 - [flat icon](https://www.flaticon.com)
 - [up labs](https://www.uplabs.com)
 - [flat icon](https://www.flaticon.com)
@@ -270,8 +269,11 @@
 - [figma cool](https://ui.figma.cool)
 - [basicons](https://basicons.xyz)
 - [design systems](https://designsystemsrepo.com)
+
 - [奇妙导航](https://www.qimiaodh.com)
-- [uxmap设计导航](http://www.uxmap.cn/page/#/uxmap/home)
+- [uxmap 设计导航](http://www.uxmap.cn/page/#/uxmap/home)
+- [创造狮 设计导航](http://www.chuangzaoshi.com)
+- [大作 设计导航](https://www.bigbigwork.com/nav/4.html)
 
 
 ### 设计规范
