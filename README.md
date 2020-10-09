@@ -126,10 +126,10 @@
 - https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts
 - https://github.com/TonnyL/Awesome_APIs/blob/master/README-zh.md
 - https://github.com/a54552239/Administrative-divisions-of-China
+- https://github.com/modood/Administrative-divisions-of-China
 
 
 ### 工具相关
-- http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2019
 - https://www.wjx.cn/jq/34264182.aspx
 - https://www.wjx.cn/jq/34037271.aspx
 - https://www.wjx.cn/jq/16746772.aspx
@@ -371,3 +371,11 @@
 - https://www.ifchange.com
 - https://www.gaoding.com/koutu
 - https://www.gaoding.com/school
+
+
+### 地理信息
+- [国家统计局](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/)
+- [民政部](http://www.mca.gov.cn/article/sj/xzqh/2020/)
+- [腾讯 - 行政区划](https://lbs.qq.com/service/webService/webServiceGuide/webServiceDistrict)
+- [高德 - 区域查询](https://lbs.amap.com/api/webservice/guide/api/district)
+- [高德 - 边界查询](https://lbs.amap.com/api/javascript-api/example/district-search/draw-district-boundaries)
